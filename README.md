@@ -1,6 +1,6 @@
 # Comprehensive Backend Development with ASP.NET Core, EF Core, and Blazor
 
-This comprehensive tutorial will guide you through the entire process of building a full-stack web application using Blazor Server and an ASP.NET Core backend. You will learn to build a feature-rich application from the ground up, covering everything from project setup to deployment.
+This comprehensive tutorial will guide you through the entire process of building a full-stack web application using Blazor Server and an ASP.NET Core backend. You will learn to build a feature-rich application from the ground up, covering everything from project setup upto deployment.
 
 ## Table of Contents
 1.  [Understanding the Full-Stack Architecture](#1-understanding-the-full-stack-architecture)
